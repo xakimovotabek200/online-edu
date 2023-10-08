@@ -10,7 +10,7 @@ export const PricngData = [
         text6: "Practice quizes & assignments",
         textQizil1: "Practice quizes & assignments",
         textQizil2: "In depth explanations",
-        textQizil1: "Personal instructor Assitance",
+        textQizil3: "Personal instructor Assitance",
     },
     {
         id: 2,
@@ -21,8 +21,8 @@ export const PricngData = [
         text4: "1 Month subscriptions",
         text5: "3 Free books",
         text6: "Practice quizes & assignments",
-        textQizil2: "In depth explanations",
         textQizil1: "Personal instructor Assitance",
+        textQizil2: "In depth explanations",
     },
     {
         id: 3,
@@ -35,7 +35,7 @@ export const PricngData = [
         text6: "Practice quizes & assignments",
         text7: "In depth explanations",
         text8: "Personal instructor Assitance",
-        textQizil2: "In depth explanations",
         textQizil1: "Personal instructor Assitance",
+        textQizil2: "In depth explanations",
     },
 ]
