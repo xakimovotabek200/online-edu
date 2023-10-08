@@ -10,7 +10,6 @@ export const PricngData = [
         text6: "Practice quizes & assignments",
         textQizil1: "Practice quizes & assignments",
         textQizil2: "In depth explanations",
-        textQizil3: "Personal instructor Assitance",
     },
     {
         id: 2,
